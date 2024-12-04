@@ -41,7 +41,8 @@ This project was completed under the guidance of **WsCube Tech**.
 - **Interactive Dashboard**: [Dashboard Link](https://drive.google.com/file/d/1pu2dgqvLHKVttXm3WMpQ8zpcrFoqrD2u/view?usp=sharing)  
 - **Certificate**: [Certificate Link](https://i.ibb.co/qNNmCTg/Screenshot-2024-12-04-115620.png)
 
-
+## 📊 Dashboard Preview
+![PhonePe Transactions Dashboard](https://i.ibb.co/FnJd3Q7/Screenshot-2024-12-04-022908.png)
 
 ---
 
